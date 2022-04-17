@@ -35,4 +35,4 @@
 
 // bool CompareMatrixNormal(std::vector<std::vector<double>> A, std::vector<std::vector<double>> B);
 
-#endif // MODULES_TASK_1_UGLINSKII_B_CRS_MATRIX_CRS_MULTIPLICATION_H_
+#endif  // MODULES_TASK_1_UGLINSKII_B_CRS_MATRIX_CRS_MULTIPLICATION_H_
