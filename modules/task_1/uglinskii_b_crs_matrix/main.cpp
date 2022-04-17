@@ -3,7 +3,7 @@
 #include <iostream>
 #include <vector>
 
-#include "./crs_multiplication.h"
+//#include "./crs_multiplication.h"
 
 TEST(test,test)
 {
@@ -125,8 +125,9 @@ TEST(test,test)
 //   ASSERT_TRUE(CompareMatrixCRS(matrix_C, crs_C));
 // }
 
-/*int main(int argc, char **argv)
+int main(int argc, char **argv)
 {
   ::testing::InitGoogleTest(&argc, argv);
   return RUN_ALL_TESTS();
-}*/
+  return 0;
+}
