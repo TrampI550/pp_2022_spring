@@ -1,6 +1,6 @@
 // Copyright 2022 Uglinskii Bogdan
-#ifndef MODULES_TASK_1_UGLINSKII_B_CRS_MATRIX_CRS_MULTIPLICATION_H_
-#define MODULES_TASK_1_UGLINSKII_B_CRS_MATRIX_CRS_MULTIPLICATION_H_
+#ifndef MODULES_TASK_1_A_A_H_
+#define MODULES_TASK_1_A_A_H_
 
 #include <vector>
 
@@ -35,4 +35,4 @@
 
 // bool CompareMatrixNormal(std::vector<std::vector<double>> A, std::vector<std::vector<double>> B);
 
-#endif  // MODULES_TASK_1_UGLINSKII_B_CRS_MATRIX_CRS_MULTIPLICATION_H_
+#endif  // MODULES_TASK_1_A_A_H_
